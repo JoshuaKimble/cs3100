@@ -1,0 +1,11 @@
+Students:
+
+/var/classes/cs3100/lab1/cuke.tar contains the testing scripts I use to test your Lab 1.
+This file is a work in progress, so be gentle and kind.
+
+If your current working directory contains your wsh.cpp, wsh.h and Makefile,
+issue command "tar xvf /var/classes/cs3100/lab1/cuke.tar" to extract three
+folders, features, tmp and bin in to your current directory.
+
+Then issue command "cucumber" to compile and exercise your wsh.
+
